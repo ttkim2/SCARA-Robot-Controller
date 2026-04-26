@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -)",
+      "Bash(python preview_drawing.py)",
+      "Bash(python -c ':*)"
+    ]
+  }
+}
